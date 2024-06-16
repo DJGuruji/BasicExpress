@@ -1,0 +1,31 @@
+# Dependency directories
+/node_modules
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Build files
+/build
+
+# Testing files
+/coverage
+
+# Environment configuration
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# Cache directories
+.cache/
